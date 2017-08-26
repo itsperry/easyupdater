@@ -1,3 +1,4 @@
+#!/bin/bash
 OS=$(lsb_release -si)
 if [ "$OS" = "Ubuntu" ] ; then
 	echo "----------------------"
