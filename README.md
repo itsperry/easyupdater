@@ -17,4 +17,5 @@ how to get
 
 Code:
 wget dl.perryoo11.ga/easyupdater/updater.sh
+
 bash updater.sh
