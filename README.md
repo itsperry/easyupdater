@@ -8,7 +8,9 @@ the easy updater
 support
 
  -ubuntu
+ 
  -debian
+ 
  -centos
 
 how to get
