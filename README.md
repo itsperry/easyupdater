@@ -8,7 +8,8 @@ The easy updater
 Support:
 
     debian
-    ubuntu <- php might not work still working on this
+    ubuntu
+    centos
 
 Use & install
 
