@@ -1,22 +1,25 @@
 # easyupdater
 my first sh/bash script
 
-hello i trying to learn bash and i just made my first simple script.
+Hello i trying to learn bash and i just made my first simple script.
 
-the easy updater
+The easy updater
 
-support
+Support:
+    debian
+    ubuntu <- php might not work still working on this
 
- -ubuntu
- 
- -debian
- 
- -centos
-
-how to get
+Use & install
 
 Code:
 
-wget dl.perryoo11.ga/easyupdater/updater.sh
+ wget dl.perryoo11.ga/easyupdater/updater.sh
+ bash updater.sh
 
-bash updater.sh
+Homepage:
+
+https://perryoo11.ga/projects/easyupdater.html
+
+Mainpage:
+
+https://perryoo11.ga
