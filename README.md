@@ -15,14 +15,6 @@ Use & install
 
 Code:
 
- wget dl.itsperry.com/easyupdater/updater.sh
+ wget https://raw.githubusercontent.com/itsperry/easyupdater/master/updater.sh
  
  bash updater.sh
-
-Homepage:
-
-https://dev.itsperry.com/old/perryoo11.ga/projects/easyinstaller.html
-
-Mainpage:
-
-https://itsperry.com
